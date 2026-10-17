@@ -1,7 +1,7 @@
 # Juan Pablo Traverso — contributions to Lean Pool
 
 This public fork records my Lean formalization contributions to
-[Lean Pool](https://github.com/Vilin97/lean-pool). It is not a separate curated
+[Lean Pool](https://github.com/LeanPool/lean-pool). It is not a separate curated
 library: the upstream repository is the authority for accepted contributions,
 review decisions, and integration checks. Code under discussion lives on the
 corresponding contribution branches; an open PR is not yet part of upstream main.
@@ -32,31 +32,32 @@ resultados. ¡Gracias!
 
 | Contribution | Upstream PR |
 |---|---|
-| Finite cone and linear-programming duality | [#347](https://github.com/Vilin97/lean-pool/pull/347) |
-| Sum-zero triangle packing | [#348](https://github.com/Vilin97/lean-pool/pull/348) |
-| Chordal separators and Dirac theorems | [#349](https://github.com/Vilin97/lean-pool/pull/349) |
-| Minimum-degree and spread matching theorems | [#420](https://github.com/Vilin97/lean-pool/pull/420) |
-| Bennett–Bernstein, Freedman, and Hoeffding inequalities | [#431](https://github.com/Vilin97/lean-pool/pull/431) |
-| Finite max-flow/min-cut | [#432](https://github.com/Vilin97/lean-pool/pull/432) |
-| Even graph cycle decomposition | [#433](https://github.com/Vilin97/lean-pool/pull/433) |
-| Finite near-regular hypergraph nibble | [#471](https://github.com/Vilin97/lean-pool/pull/471) |
-| Asymptotic triangle-packing gap | [#544](https://github.com/Vilin97/lean-pool/pull/544) |
-| Dross's fractional triangle decomposition theorem | [#573](https://github.com/Vilin97/lean-pool/pull/573) |
-| Clique-tree theory for chordal graphs | [#577](https://github.com/Vilin97/lean-pool/pull/577) |
-| Vizing's theorem and equitable edge colourings | [#578](https://github.com/Vilin97/lean-pool/pull/578) |
+| Finite cone and linear-programming duality | [#347](https://github.com/LeanPool/lean-pool/pull/347) |
+| Sum-zero triangle packing | [#348](https://github.com/LeanPool/lean-pool/pull/348) |
+| Chordal separators and Dirac theorems | [#349](https://github.com/LeanPool/lean-pool/pull/349) |
+| Minimum-degree and spread matching theorems | [#420](https://github.com/LeanPool/lean-pool/pull/420) |
+| Bennett–Bernstein, Freedman, and Hoeffding inequalities | [#431](https://github.com/LeanPool/lean-pool/pull/431) |
+| Finite max-flow/min-cut | [#432](https://github.com/LeanPool/lean-pool/pull/432) |
+| Even graph cycle decomposition | [#433](https://github.com/LeanPool/lean-pool/pull/433) |
+| Finite near-regular hypergraph nibble | [#471](https://github.com/LeanPool/lean-pool/pull/471) |
+| Asymptotic triangle-packing gap | [#544](https://github.com/LeanPool/lean-pool/pull/544) |
+| Dross's fractional triangle decomposition theorem | [#573](https://github.com/LeanPool/lean-pool/pull/573) |
+| Clique-tree theory for chordal graphs | [#577](https://github.com/LeanPool/lean-pool/pull/577) |
+| Vizing's theorem and equitable edge colourings | [#578](https://github.com/LeanPool/lean-pool/pull/578) |
+| Clique-forest/tree-decomposition and colouring/matching adapters | [#579](https://github.com/LeanPool/lean-pool/pull/579) |
+| Retained-clique gluing and exact induced-piece accounting | [#580](https://github.com/LeanPool/lean-pool/pull/580) |
+| Strict Beck–Fiala matrix rounding | [#581](https://github.com/LeanPool/lean-pool/pull/581) |
+| Brooks' theorem for finite subcubic graphs | [#582](https://github.com/LeanPool/lean-pool/pull/582) |
+| Gavril subtree representations and exact chordal treewidth | [#583](https://github.com/LeanPool/lean-pool/pull/583) |
+| Häggkvist–Janssen complete-graph list edge colouring | [#585](https://github.com/LeanPool/lean-pool/pull/585) |
+| Structural graph classes: split partitions, cotrees and threshold creation sequences | [#587](https://github.com/LeanPool/lean-pool/pull/587) |
 
-## Open contributions
+All 19 contributions above are merged upstream; there are no open contribution PRs.
 
-| Contribution | Upstream PR |
-|---|---|
-| Clique-forest/tree-decomposition and colouring/matching adapters | [#579](https://github.com/Vilin97/lean-pool/pull/579) |
-| Retained-clique gluing and exact induced-piece accounting | [#580](https://github.com/Vilin97/lean-pool/pull/580) |
-| Strict Beck–Fiala matrix rounding | [#581](https://github.com/Vilin97/lean-pool/pull/581) |
-| Brooks' theorem for finite subcubic graphs | [#582](https://github.com/Vilin97/lean-pool/pull/582) |
-
-Status snapshot: 2 October 2026 (America/Santiago). The linked PRs show live status.
-The earlier [#464](https://github.com/Vilin97/lean-pool/pull/464) repair proposal was
-closed without merge and is not counted as an accepted contribution.
+Status snapshot: 17 October 2026 (America/Santiago). The upstream repository is now
+[LeanPool/lean-pool](https://github.com/LeanPool/lean-pool); the linked PRs show live status.
+The earlier [#464](https://github.com/LeanPool/lean-pool/pull/464) repair proposal was closed without merge and is not counted as an
+accepted contribution.
 
 ## About the upstream project
 
