@@ -13,6 +13,21 @@ The contributed Lean code is licensed under Apache-2.0; paper licenses are separ
 Proof provenance and the precise scope of each result are recorded in the PRs
 and project cards. Formalizing a classical theorem is not a claim of new mathematics.
 
+## arXiv endorsement
+
+These formalizations accompany my preprint series on Erdős Problem #81
+([erdos-81-chordal-clique-partitions](https://github.com/jtraverso/erdos-81-chordal-clique-partitions)),
+which I am preparing to submit to arXiv (math.CO). If you are an arXiv author eligible to endorse
+in math.CO and found this work valuable, you can endorse me at https://arxiv.org/auth/endorse?x=N8V4R6 (code `N8V4R6`). An
+endorsement only confirms that the work is appropriate for the subject area; it is not a review of
+the results. Thank you.
+
+*En español:* estas formalizaciones acompañan mi serie de preprints sobre el problema #81 de Erdős,
+que preparo para enviar a arXiv (math.CO). Si eres autor de arXiv habilitado para dar endorsement
+en math.CO y este trabajo te pareció valioso, puedes dármelo en https://arxiv.org/auth/endorse?x=N8V4R6 (código `N8V4R6`). El
+endorsement solo confirma que el trabajo es adecuado para el área; no es una revisión de los
+resultados. ¡Gracias!
+
 ## Merged contributions
 
 | Contribution | Upstream PR |
